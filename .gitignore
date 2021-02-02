@@ -1,0 +1,13 @@
+.tmcparams
+.tmcproject.yml
+nbactions.xml
+pom.xml
+test/
+target/
+*.xml
+*.json
+*.csv
+*.tsv
+*.png
+*.wav
+*.txt
